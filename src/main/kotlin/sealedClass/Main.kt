@@ -1,0 +1,5 @@
+package sealedClass
+
+fun main() {
+
+}
